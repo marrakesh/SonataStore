@@ -37,7 +37,6 @@ namespace SonataStore.WebUI.Controllers
             }
             else
             {
-                //Что-то не так со значениями данных
                 return View(product);
             }
         }
